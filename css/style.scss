@@ -1,0 +1,35 @@
+@import "bootstrap.min.css";
+@import "variables";
+@import "backgrounds";
+@import "text";
+@import "typography";
+
+h4 {
+  font-family: $font-family-primary;
+}
+
+p {
+  font-family: $font-family-secondary;
+}
+
+.card {
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+
+.main-marketing-section {
+  .btn-primary {
+    font-family: $font-family-secondary;
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    padding: 4px 7px;
+  }
+}
+
+.form-marketing-section {
+  .btn-primary {
+    font-family: $font-family-secondary;
+    font-size: $font-size-sm;
+    border-radius: 5px;
+    padding: 6px 16px;
+  }
+}

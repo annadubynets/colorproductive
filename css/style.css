@@ -1,0 +1,128 @@
+@import "bootstrap.min.css";
+.bg-dark-blue {
+  background-color: #2a2f4d !important;
+}
+
+.bg-light-blue {
+  background-color: #e4ebf6 !important;
+}
+
+.bg-turquoise {
+  background-color: #dcfcfb !important;
+}
+
+.bg-purple {
+  background-color: #faefed !important;
+}
+
+.bg-green {
+  background-color: #e1ffc7 !important;
+}
+
+.bg-yellow {
+  background-color: #fffcd9 !important;
+}
+
+.bg-light-red {
+  background-color: #ff2959 !important;
+}
+
+.bg-blue {
+  background-color: #00aeef !important;
+}
+
+.bg-gray {
+  background-color: #58595b !important;
+}
+
+.bg-light-gray {
+  background-color: #939598 !important;
+}
+
+.text-white {
+  color: #ffffff !important;
+}
+
+.text-dark {
+  color: #3d3d3b !important;
+}
+
+.text-primary {
+  color: #00aeef !important;
+}
+
+.text-info {
+  color: #14ccc0 !important;
+}
+
+.text-danger {
+  color: #fb7454 !important;
+}
+
+.text-success {
+  color: #58794c !important;
+}
+
+.text-warning {
+  color: #efc869 !important;
+}
+
+@font-face {
+  font-family: "HelveticaHeavy";
+  src: url("../fonts/HelveticaNeueCyr-Heavy.eot");
+  src: url("../fonts/HelveticaNeueCyr-Heavy.eot?#iefix") format("embedded-opentype"), url("../fonts/HelveticaNeueCyr-Heavy.woff2") format("woff2"), url("../fonts/HelveticaNeueCyr-Heavy.woff") format("woff"), url("../fonts/HelveticaNeueCyr-Heavy.ttf") format("truetype"), url("../fonts/HelveticaNeueCyr-Heavy.svg#HelveticaNeueCyr-Heavy") format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HelveticaLight";
+  src: url("../fonts/HelveticaNeueCyr-Light.eot");
+  src: url("../fonts/HelveticaNeueCyr-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/HelveticaNeueCyr-Light.woff2") format("woff2"), url("../fonts/HelveticaNeueCyr-Light.woff") format("woff"), url("../fonts/HelveticaNeueCyr-Light.ttf") format("truetype"), url("../fonts/HelveticaNeueCyr-Light.svg#HelveticaNeueCyr-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+.font-size-xs {
+  font-size: 10px;
+}
+
+.font-size-sm {
+  font-size: 14px;
+}
+
+.font-size-md {
+  font-size: 22px;
+}
+
+.font-size-lg {
+  font-size: 26px;
+}
+
+h4 {
+  font-family: "HelveticaHeavy", sans-serif;
+}
+
+p {
+  font-family: "HelveticaLight", sans-serif;
+}
+
+.card {
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+
+.main-marketing-section .btn-primary {
+  font-family: "HelveticaLight", sans-serif;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+  padding: 4px 7px;
+}
+
+.form-marketing-section .btn-primary {
+  font-family: "HelveticaLight", sans-serif;
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 6px 16px;
+}
+
+/*# sourceMappingURL=style.css.map */

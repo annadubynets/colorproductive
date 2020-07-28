@@ -1,0 +1,30 @@
+@import "variables";
+
+.text-white {
+  color: $white-color!important;
+}
+
+.text-dark {
+  color: $black-color!important;
+}
+
+.text-primary {
+  color: $blue-color!important;
+}
+
+.text-info {
+  color: $dark-turquoise-color!important;
+}
+
+.text-danger {
+  color: $orange-color!important;
+}
+
+.text-success {
+  color: $dark-green-color!important;
+}
+
+.text-warning {
+  color: $dark-yellow-color!important;
+}
+
